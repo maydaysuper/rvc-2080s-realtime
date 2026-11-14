@@ -1,0 +1,20 @@
+{
+  "pth_path": "assets/weights/guanguanV1.pth",
+  "index_path": "assets/indices/guanguanV1.index",
+  "sg_hostapi": "",
+  "sg_wasapi_exclusive": false,
+  "sg_input_device": "",
+  "sg_output_device": "",
+  "sr_type": "sr_model",
+  "threhold": -40.0,
+  "pitch": 0.0,
+  "rms_mix_rate": 0.5,
+  "index_rate": 0.0,
+  "block_time": 0.16,
+  "crossfade_length": 0.04,
+  "extra_time": 1.0,
+  "n_cpu": 4.0,
+  "use_jit": false,
+  "use_pv": false,
+  "f0method": "fcpe"
+}
